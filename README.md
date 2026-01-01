@@ -11,8 +11,9 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
-            display: flex;
+            width:100%;
+           max-width: 600px;
+background-colorkground-col    #f4f4f4;display: flex;
             flex-direction: column;
             align-items: center;
         }
